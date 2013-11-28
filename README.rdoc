@@ -1,0 +1,26 @@
+
+== README
+
+Angular seems to be the big craze as of late. Some may agree and some may not, but AngularJS is one of the next big contenders for being the number one choice of developers.
+
+Here I want to create a useful Rails application using Angular. The goal is to have a single-page application which allows us to select a screencast link on the left and view it on the right
+
+
+Following Command You need to run after cloning this application
+
+	* $ rake db:create
+
+	* $ rake db:migrate
+
+	* $ rake angularJs:fetch_vidoe_from_railscasts 
+
+Database      : sqlite3
+
+Rails Version : 4.0.1
+
+Ruby Version  : 2.0.0
+
+
+More For Information about Angular JS : 
+
+	http://docs.angularjs.org/guide/controller   
