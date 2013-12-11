@@ -19,7 +19,7 @@ Rails Version : 4.0.1
 
 Ruby Version  : 2.0.0
 
-Live : http://angular-js.herokuapp.com/
+Live : http://angular-js.herokuapp.com
 
 More For Information about Angular JS : 
 
