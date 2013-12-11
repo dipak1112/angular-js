@@ -1,4 +1,3 @@
-
 == README
 
 Angular seems to be the big craze as of late. Some may agree and some may not, but AngularJS is one of the next big contenders for being the number one choice of developers.
@@ -20,6 +19,7 @@ Rails Version : 4.0.1
 
 Ruby Version  : 2.0.0
 
+Live : http://angular-js.herokuapp.com/
 
 More For Information about Angular JS : 
 
